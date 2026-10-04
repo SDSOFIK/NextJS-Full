@@ -16,8 +16,5 @@ react দিয়ে web site বানানো পাশাপাশি next js 
 4. Backend: API Routes ও Route Handlers দিয়ে backend functionality তৈরি করা।
 4. Optimization: Image ও font optimization-এর সুবিধা।
 
------------- layout page -----------------------------
 
 
-globals.css  full project a css সেই ফাইল থাকে 
-layout.js 
