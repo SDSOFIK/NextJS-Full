@@ -1,0 +1,1 @@
+next js project আমরা যে css code and tailwindcss use করতে পারি tailwindcss next js setup করার সময় install kore noya jay তাই নতুন করে কন কিছু file setup korte hoye na amra tailwindcss এবং row css use korbo akta ছোট ওয়েব সাইট বানব সদু navber body footer 
