@@ -1,15 +1,14 @@
 import Link from "next/link"
-import { About } from '@/app/main/about/page';
 const Navber = () => {
   return (
     <>
-  <nav className='flex justify-between'>
+  <nav className='flex justify-between items-center w-full max-w-5xl mx-auto'>
       <div className='font-bold'>
-        logo
+        Logo
     </div>
-    <div className='flex gap-1 m-auto'>
+    <div className='flex gap-5 justify-end'>
      
-           <Link href="/">home</Link>
+           <Link href="/">Home</Link>
            <Link href="/about">About</Link>
            <Link href="/connect">Connect</Link>
         
