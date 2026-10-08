@@ -10,7 +10,10 @@ const Navber = () => {
      
            <Link href="/">Home</Link>
            <Link href="/about">About</Link>
+           <Link href="/about">About</Link>
            <Link href="/connect">Connect</Link>
+           
+
         
     </div>
   </nav>
