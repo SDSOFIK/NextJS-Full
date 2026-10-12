@@ -29,7 +29,10 @@ export default function RootLayout({ children }) {
         
               <Navber/>
 
-        {children}
+        <main className="flex-1">
+          {children}
+        </main>
+
         <Footer/>
         </body>
     </html>
